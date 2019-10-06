@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oodiphoowa.sitac.it/sitemap.xml
